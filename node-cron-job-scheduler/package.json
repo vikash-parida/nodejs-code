@@ -1,0 +1,20 @@
+{
+  "name": "cron-job-scheduler",
+  "version": "1.0.0",
+  "description": "learning cron and scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon errorhandel.js"
+  },
+  "author": "vikash",
+  "license": "ISC",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.18.1",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.16",
+    "shelljs": "^0.8.5"
+  }
+}
