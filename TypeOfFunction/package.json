@@ -1,0 +1,11 @@
+{
+  "name": "typeoffunction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iife.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon arrayDstru.js"  },
+  "author": "",
+  "license": "ISC"
+}
