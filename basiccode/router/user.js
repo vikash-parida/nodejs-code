@@ -1,6 +1,6 @@
 const express = require('express');
 const route = express.Router();
-const user = require('../api/controller/user')
+const user = require('../api/controller/user-contriller')
 const errorHandel = require('../api/middelware/errorHandle')
 
 
