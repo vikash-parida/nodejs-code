@@ -13,7 +13,7 @@ let transport = nodemailer.createTransport({
 });
 
 let mailOptions = {
-    from: 'vikash@nimapinfotech.com',
+    from: 'beast.an07@gmail.com',
     to:'vikashparida067@gmail.com',
     subject: 'test node package nodemailer',
     text: 'hii vikash'
